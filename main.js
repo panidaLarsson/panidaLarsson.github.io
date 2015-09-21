@@ -1,5 +1,5 @@
 
 $('h1').click(function()
 {
-$('p').slidetoggle();}
+$('p' 'a').slidetoggle();}
 )
