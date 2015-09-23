@@ -1,5 +1,5 @@
+$('article p').hide();
+$('h3').click(function(){
+  $(this).next().fadeToggle();
+})
 
-$('h3').click(function()
-{
-$('p').slidetoggle();}
-)
